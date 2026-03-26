@@ -5,7 +5,7 @@ def main():
     inicializar_datos()
 
     while True:
-        print("\n🌿 ECO-TRACKER LAS VARILLAS")
+        print("\n M-? ECO-TRACKER LAS VARILLAS")
         print("1. Ver árboles")
         print("2. Agregar árbol")
         print("3. Salir")
@@ -17,10 +17,12 @@ def main():
         elif opcion == "2":
             print("(Función en desarrollo...)")
         elif opcion == "3":
-            print("¡Hasta luego! 🌱")
+            print("¡Hasta luego!  M-1")
             break
         else:
             print("Opción no válida, intentá de nuevo.")
 
 if __name__ == "__main__":
     main()
+
+
